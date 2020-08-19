@@ -1,5 +1,7 @@
 def hello_t(array)
-puts "This should print first"
-yield(array)
-puts "And this last"
+i = 0 
+
+while i < array.length 
+i = i + 1 
 end
+end 
