@@ -4,5 +4,4 @@ yield(array)
 puts "And this last"
 end
 
-# call your method here!
 
