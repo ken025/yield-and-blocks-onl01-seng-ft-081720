@@ -3,5 +3,3 @@ puts "This should print first"
 yield(array)
 puts "And this last"
 end
-
-hello_t
