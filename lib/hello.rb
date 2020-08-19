@@ -5,6 +5,7 @@ while i < array.length
 yield array[1]
 i = i + 1 
   end
+  array
 end 
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
